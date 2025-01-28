@@ -1,0 +1,25 @@
+.box {
+    display: flex;
+    flex-direction: column;
+    height: 550px;
+    width: 600px;
+    background-color: white;
+    align-items:center ;
+    justify-content: center;
+}
+
+.box .heading-style {
+    margin-left: 680px;
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.box .signin { 
+    margin-left: 670px;
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.error {
+    color: red;
+}
